@@ -2,6 +2,8 @@
 
 A web application that helps you memorize names from your WhatsApp groups by connecting to WhatsApp Web and providing an interactive learning interface.
 
+![WhatsApp Memorizer Main Interface](docs/images/main-interface.png)
+
 ## 🚀 Quick Setup
 
 ### Prerequisites
@@ -63,11 +65,15 @@ A web application that helps you memorize names from your WhatsApp groups by con
 2. Click on the group you want to practice with
 3. The application will load the participants from that group
 
+![WhatsApp Groups View](docs/images/groups-view.png)
+
 ### Step 4: Start Memorizing
 1. The app will show you profile pictures from the selected group
 2. Try to guess the name of the person
 3. Click to reveal the correct answer
 4. Track your progress as you learn everyone's names
+
+![Card Selection Interface](docs/images/card-selection.png)
 
 ## 🛠️ Development
 
